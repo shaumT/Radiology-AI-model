@@ -1,0 +1,11 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+archive (4).zip
